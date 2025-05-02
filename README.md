@@ -4,7 +4,7 @@ Hi 👋 My name is Nizan Naor
 Software Developer
 ------------------
 
-Software Developer with a B.Sc. in Computer Science, experienced in backend development and Python programming.
+Software Developer with hands-on back-end development experience in scalable applications. 
 
 * 🌍  I'm based in Tel Aviv
 * ✉️  You can contact me at [nizan.naor11@gmail.com](mailto:nizan.naor11@gmail.com)
