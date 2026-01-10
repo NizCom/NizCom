@@ -1,4 +1,4 @@
-Hi 👋 My name is Nizan Naor
+Hi 👋 My name is Nitzan Naor
 ===========================
 
 Software Developer
